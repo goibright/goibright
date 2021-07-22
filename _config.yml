@@ -176,3 +176,5 @@ jekyll-archives:
 
 # Outdated configuration warning
 outdated: '-- Missing configuration options! --'
+
+remote-theme: 'cotes2020/jekyll-theme-chirpy'

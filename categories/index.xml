@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on IBRIGHT</title>
+    <link>https://goibright.github.io/categories/</link>
+    <description>Recent content in Categories on IBRIGHT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Feb 2021 10:12:00 +0800</lastBuildDate><atom:link href="https://goibright.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smart Voice</title>
+      <link>https://goibright.github.io/categories/smart-voice/</link>
+      <pubDate>Thu, 18 Feb 2021 10:12:00 +0800</pubDate>
+      
+      <guid>https://goibright.github.io/categories/smart-voice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Third Party Tutorial</title>
+      <link>https://goibright.github.io/categories/third-party-tutorial/</link>
+      <pubDate>Thu, 18 Feb 2021 10:12:00 +0800</pubDate>
+      
+      <guid>https://goibright.github.io/categories/third-party-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>https://goibright.github.io/categories/support/</link>
+      <pubDate>Sun, 03 Jan 2021 18:32:00 +0000</pubDate>
+      
+      <guid>https://goibright.github.io/categories/support/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on IBRIGHT</title>
+    <link>https://goibright.github.io/post/</link>
+    <description>Recent content in Posts on IBRIGHT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Feb 2021 10:12:00 +0800</lastBuildDate><atom:link href="https://goibright.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quick Guide of Using Google Home to Control Smart Devices</title>
+      <link>https://goibright.github.io/post/quick-guide-use-google-home/</link>
+      <pubDate>Thu, 18 Feb 2021 10:12:00 +0800</pubDate>
+      
+      <guid>https://goibright.github.io/post/quick-guide-use-google-home/</guid>
+      <description>What you need to get started Before using Google Home to control your devices, make sure you meet the following conditions.
+ A Google Home device, or Android phone with Google Assistant. Latest Google Home App. Latest Google App (Android only) A Google account. The device display language must be set to English US. IBRIGHT App and a related account. Smart devices.  Add devices in IBRIGHT App (Refer to App Instruction) You can skip this part if you’ve already added some devices to your IBRIGHT account, and in the meantime, the devices’ names are easily recognized.</description>
+    </item>
+    
+    <item>
+      <title>Quick Guide of Using Amazon Echo to Control Smart Devices</title>
+      <link>https://goibright.github.io/post/quick-guide-use-amazion-echo/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://goibright.github.io/post/quick-guide-use-amazion-echo/</guid>
+      <description>What you need to get started Before using Echo to control your smart devices, make sure you meet the following conditions.
+ Stable Wi-Fi network which could access to Amazon server. (For mainland China users) An Echo device, including Echo, Echo Tap, or Echo Dot. An Amazon account. (If you don’t have an Amazon account, click here to register) IBRIGHT App and a related account. Smart devices.  Add devices in IBRIGHT App (Refer to App Instruction) You can skip this part if you’ve already added some devices to your IBRIGHT account, and in the meantime, the devices’ names are easily recognized.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Notice</title>
+      <link>https://goibright.github.io/post/2021-07-20-privacy-notice/</link>
+      <pubDate>Sun, 03 Jan 2021 18:32:00 +0000</pubDate>
+      
+      <guid>https://goibright.github.io/post/2021-07-20-privacy-notice/</guid>
+      <description>IBRIGHT , its affiliates and subsidiaries (“we”, “us”, “our”, “IBRIGHT”) are committed to protecting your privacy. This Privacy Statement (“Statement”) describes our practices in connection with information privacy on personal data we process through your individual use of the following services, products, and related mobile applications (collectively, the “Products”)
+· IBRIGHT Smart Mobile Application
+· IBRIGHT Mobile Application
+In this Privacy Notice, “Personal Data” means information that can be used to identify an individual, either from that information alone, or from that information and other information we have access to about that individual.</description>
+    </item>
+    
+  </channel>
+</rss>
